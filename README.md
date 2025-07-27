@@ -29,11 +29,12 @@ Este código pode ser executado em ambientes que interpretam Portugol, como:
 ## 📷 Exemplo de Saída
 Matriz sorteada 5x5:
 
-3 7 15 1 25
-18 6 21 9 5
-2 20 11 8 12
-16 4 24 19 10
-22 14 17 23 13
+3   7  15   1  25  
+18  6  21   9   5  
+2  20  11   8  12  
+16  4  24  19  10  
+22 14  17  23  13
+
 
 Digite um número entre 01 e 25 para buscar a posição na matriz: 19
 Número encontrado na posição: [4][4].
